@@ -7,3 +7,8 @@ these two formats. Your library will handle only a subset of functionalities pos
 EPS: See https://www-cdf.fnal.gov/offline/PostScript/5002.PDF for a specification of EPS format.
 
 SVG: See https://www.w3schools.com/graphics/svg_intro.asp for an introduction to SVG format.
+
+
+--> I have dealt with some kind of shapes and functions to implement EPS in C.
+
+--> The Project has not finished yet.

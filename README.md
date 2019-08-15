@@ -8,7 +8,7 @@ ___*For more information click the links below :*___
 ## Project Purpose
 Libraries would be able to draw vector graphics and export EPS or SVG formatted files including your graphics.
 
-___Library Function :___ 
+___Library Functions :___ 
 - *Figure * start_figure(double width, double height)*
 - *void set_thickness_resolution(Figure resolution)*
 - *void set_color(Figure * fig, Color c)*

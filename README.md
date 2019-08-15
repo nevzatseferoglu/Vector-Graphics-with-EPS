@@ -2,7 +2,7 @@
 __________________________________
 *Two-dimensional (2D) vector graphics is an essential tool for many documenting and computer graphics applications. In this project, you will explore two portable vector graphics file formats EPS and SVG. You will write a C library that can generate vector graphics in EPS and SVG or convert between these two formats. Your library will handle only a subset of functionalities possible with EPS and SVG.*
 
-> For more information click the links below
+___*For more information click the links below :*___
 - EPS: See [More Info For EPS][EPS_Link] for a specification of EPS format.
 - SVG: See [More Info For SVG][SVG_Link] for an introduction to SVG format.
 

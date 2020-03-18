@@ -1,4 +1,4 @@
-# *Vector Graphics with SVG and EPS*
+# Vector Graphics with SVG and EPS
 Mixture of ```C``` and ```PostScript``` can cause a good geometric shape . It exactly shows that.
 
 
@@ -19,10 +19,10 @@ Libraries would be able to draw vector graphics and export EPS or SVG formatted 
 
 
 
-<img src="README-media/sinx.png" width="300">
-<img src="README-media/circle.png" height="100">
-<img src="README-media/binaryTree.png" width="230">
-<img src="README-media/ellipse.png" height="200">
+<img src="README-media/sinx.png" width="500">
+<img src="README-media/circle.png" height="300">
+<img src="README-media/binaryTree.png" width="430">
+<img src="README-media/ellipse.png" height="400">
 
 [EPS_Link]: https://www-cdf.fnal.gov/offline/PostScript/5002.PDF
 [SVG_Link]: https://www.w3schools.com/graphics/svg_intro.asp

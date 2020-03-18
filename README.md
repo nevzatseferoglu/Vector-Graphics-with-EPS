@@ -1,4 +1,4 @@
-# *Vector Graphics with SVG and EPS*
+# Vector Graphics with SVG and EPS
 Mixture of ```C``` and ```PostScript``` can cause a good geometric shape . It exactly shows that.
 
 

@@ -1,7 +1,7 @@
 #include <stdio.h> /* Standart Library */
 #include <stdlib.h> /* For Dynamic Memory Allocation ex. malloc */
 #include  <math.h> /* For mathematical equation and calculation */
-#include "src/epsLib.h" /* Project Main Lib.*/
+#include "headers/epsLib.h" /* Project Main Lib.*/
 double f(double x);
 int main()
 {
